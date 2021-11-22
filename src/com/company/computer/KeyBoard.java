@@ -2,5 +2,5 @@ package com.company.computer;
 
 public class KeyBoard {
     private String name;
-    private int a;
+    private int b;
 }
